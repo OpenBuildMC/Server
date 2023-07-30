@@ -1,3 +1,2 @@
 # ServerUpdates
-All Updates:
-ComingSoon
+You can find all Updates right here!
